@@ -1,0 +1,31 @@
+body {
+color: #F98A8A
+}
+
+a {
+color: #FBD4D4
+}
+
+.label-label {
+color: #EA3232 
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li>a { 
+color: #FBD4D4;
+}
+
+.nav-tabs>li.active>a:hover, .nav-tabs>li.active>a, .nav-tabs>li>a:hover {
+background-color: #283647;
+}
+
+.nav-tabs>li>a:hover, .nav-tabs>li.active>a {
+border: 1px solid #900;
+}
+
+button.btn.btn-default { 
+background-color: #900; 
+}
+
+.navbar-default .navbar-brand {
+color: #EA3232;
+}
